@@ -1,4 +1,4 @@
-![https://codeup.kr/problem.php?id=2001]  
+https://codeup.kr/problem.php?id=2001  
 ## 문제설명  
 파파 파스타 가게는 점심 추천 파스타와 생과일 쥬스 세트 메뉴가 인기가 좋다.  
 
